@@ -1,0 +1,140 @@
+categories:
+  - name: "Fasteners"
+    abbrev: "FST"
+    keywords: ["bolt", "nut", "washer", "stud", "screw", "fastener", "threaded rod"]
+    subcategories:
+      - name: "Hex Bolts"
+        keywords: ["hex bolt", "hexagonal bolt", "hex head bolt", "machine bolt"]
+      - name: "Nuts"
+        keywords: ["hex nut", "lock nut", "flange nut", "dome nut", "heavy hex nut"]
+      - name: "Washers"
+        keywords: ["plain washer", "spring washer", "flat washer", "lock washer"]
+      - name: "Studs"
+        keywords: ["stud bolt", "full thread stud", "double end stud"]
+
+  - name: "Bearings"
+    abbrev: "BRG"
+    keywords: ["bearing", "brg", "roller", "bush"]
+    subcategories:
+      - name: "Ball Bearings"
+        keywords: ["ball bearing", "deep groove ball bearing", "angular contact ball bearing", "thrust ball bearing"]
+      - name: "Roller Bearings"
+        keywords: ["roller bearing", "taper roller bearing", "cylindrical roller bearing", "spherical roller bearing"]
+
+  - name: "Valves"
+    abbrev: "VLV"
+    keywords: ["valve", "cock", "actuator"]
+    subcategories:
+      - name: "Ball Valves"
+        keywords: ["ball valve", "floating ball valve", "trunnion ball valve"]
+      - name: "Gate Valves"
+        keywords: ["gate valve", "wedge gate valve", "knife gate valve"]
+      - name: "Globe Valves"
+        keywords: ["globe valve", "needle valve", "bellows globe valve"]
+
+  - name: "Pipes"
+    abbrev: "PIP"
+    keywords: ["pipe", "tubing", "casing"]
+    subcategories:
+      - name: "Carbon Steel Pipes"
+        keywords: ["carbon steel pipe", "cs pipe", "seamless pipe cs", "erw cs pipe"]
+      - name: "Stainless Steel Pipes"
+        keywords: ["stainless steel pipe", "ss pipe", "seamless pipe ss", "ss304 pipe", "ss316 pipe"]
+
+  - name: "Electrical"
+    abbrev: "ELE"
+    keywords: ["cable", "wire", "gland", "fuse", "mcb", "mccb", "contactor"]
+    subcategories:
+      - name: "Power Cables"
+        keywords: ["power cable", "xlpe cable", "armoured cable", "ht cable", "lt cable"]
+      - name: "Control Cables"
+        keywords: ["control cable", "instrumentation cable", "shielded cable"]
+      - name: "Cable Glands"
+        keywords: ["cable gland", "brass gland", "double compression gland"]
+      - name: "Industrial Fuses"
+        keywords: ["fuse", "hrc fuse", "cartridge fuse", "semiconductor fuse"]
+
+  - name: "Mechanical"
+    abbrev: "MEC"
+    keywords: ["coupling", "seal", "o-ring", "gasket", "diaphragm"]
+    subcategories:
+      - name: "Couplings"
+        keywords: ["flexible coupling", "gear coupling", "pin bush coupling", "spider coupling"]
+      - name: "Mechanical Seals"
+        keywords: ["mechanical seal", "cartridge seal", "single spring seal"]
+      - name: "O-Rings"
+        keywords: ["o-ring", "oring", "o ring", "rubber ring", "viton o-ring", "nbr o-ring"]
+
+  - name: "Pumps"
+    abbrev: "PMP"
+    keywords: ["pump", "impeller", "casing"]
+    subcategories:
+      - name: "Centrifugal Pumps"
+        keywords: ["centrifugal pump", "multistage pump", "end suction pump"]
+      - name: "Pump Spares"
+        keywords: ["impeller", "pump shaft", "wear ring", "pump casing"]
+
+  - name: "Instrumentation"
+    abbrev: "INS"
+    keywords: ["gauge", "sensor", "transmitter", "transducer", "thermocouple", "rtd"]
+    subcategories:
+      - name: "Pressure Gauges"
+        keywords: ["pressure gauge", "dial gauge", "bourdon gauge", "differential pressure gauge"]
+      - name: "Temperature Sensors"
+        keywords: ["temperature sensor", "rtd pt100", "thermocouple type k", "thermowell"]
+      - name: "Pressure Transmitters"
+        keywords: ["pressure transmitter", "dp transmitter", "smart transmitter"]
+
+  - name: "Safety"
+    abbrev: "SAF"
+    keywords: ["helmet", "glove", "goggles", "safety shoe", "harness", "ppe"]
+    subcategories:
+      - name: "Safety Helmets"
+        keywords: ["safety helmet", "hard hat", "industrial helmet"]
+      - name: "Safety Gloves"
+        keywords: ["safety glove", "leather glove", "nitrile glove", "cut resistant glove"]
+
+  - name: "Lubricants"
+    abbrev: "LUB"
+    keywords: ["oil", "grease", "lubricant"]
+    subcategories:
+      - name: "Industrial Oils"
+        keywords: ["hydraulic oil", "gear oil", "turbine oil", "compressor oil"]
+      - name: "Greases"
+        keywords: ["lithium grease", "ep2 grease", "high temperature grease"]
+
+  - name: "Welding"
+    abbrev: "WLD"
+    keywords: ["electrode", "welding rod", "filler wire", "welding torch"]
+    subcategories:
+      - name: "Electrodes"
+        keywords: ["welding electrode", "e7018", "e6013", "ss electrode"]
+      - name: "Filler Wires"
+        keywords: ["mig wire", "tig wire", "filler rod"]
+
+  - name: "Filters"
+    abbrev: "FLT"
+    keywords: ["filter", "strainer", "cartridge"]
+    subcategories:
+      - name: "Cartridge Filters"
+        keywords: ["filter cartridge", "cartridge filter", "spun filter"]
+      - name: "Y-Strainers"
+        keywords: ["y-strainer", "basket strainer", "duplex strainer"]
+
+  - name: "Flanges"
+    abbrev: "FLG"
+    keywords: ["flange", "worf", "sorf"]
+    subcategories:
+      - name: "Weld Neck Flanges"
+        keywords: ["weld neck flange", "wnrf flange"]
+      - name: "Slip-On Flanges"
+        keywords: ["slip on flange", "sorf flange", "blind flange"]
+
+  - name: "Gaskets"
+    abbrev: "GSK"
+    keywords: ["gasket", "spiral wound", "asbestos"]
+    subcategories:
+      - name: "Spiral Wound Gaskets"
+        keywords: ["spiral wound gasket", "swg", "metallic gasket"]
+      - name: "Non-Metallic Gaskets"
+        keywords: ["caf gasket", "ptfe gasket", "rubber gasket"]

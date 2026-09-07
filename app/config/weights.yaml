@@ -1,0 +1,19 @@
+weights:
+  semantic_similarity: 0.4
+  material_match: 0.2
+  dimension_match: 0.15
+  category_match: 0.1
+  specification_match: 0.1
+  uom_match: 0.05
+thresholds:
+  exact_duplicate_min: 95.0
+  high_confidence_min: 90.0
+  medium_confidence_min: 80.0
+  low_confidence_min: 60.0
+financial_assumptions:
+  working_capital_release_pct: 0.35
+  avoidable_procurement_pct: 0.25
+  holding_cost_annual_pct: 0.18
+auto_approve:
+  enabled: true
+  threshold: 90.0
